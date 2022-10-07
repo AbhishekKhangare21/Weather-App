@@ -1,3 +1,7 @@
+This is The Basic Weather App ,That I Created Using React JS 
+I used The basic concepts like Fetch API, Hooks ,Ternary Operator.
+and For Data Fetching i used openweather API.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
