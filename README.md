@@ -1,4 +1,4 @@
-This is dhe dasic weather app ,That i created using react JS 
+This is the basic weather app ,That i created using react JS 
 I used the basic concepts like fetch API, hooks ,ternary operator,
 and dor data detching i used openweather API.
 
